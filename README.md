@@ -117,3 +117,14 @@ Future Improvements:
   * Add player-specific analysis
   * Deploy the model as a web app
   * Use real-time game data
+
+
+How to Run the Project:
+
+Step 1: Clone the repository
+
+Step 2: Navigate to the project folder
+    
+Step 3: Install required libraries
+ 
+Step 4: Run Jupyter Notebook
